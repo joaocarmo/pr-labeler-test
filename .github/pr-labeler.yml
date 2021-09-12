@@ -12,6 +12,12 @@ customLabels:
     label: 'bug'
   - text: '- [x] Tests'
     label: 'test'
+  - text: '- [x] Refactoring'
+    label: 'refactor'
+  - text: '- [x] Documentation'
+    label: 'documentation'
+  - text: '- [x] Release'
+    label: 'release'
   - text: 'WIP: '
     label: 'wip'
 # Search the body of the PR for the `text` [default: true]
