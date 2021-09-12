@@ -1,5 +1,7 @@
 # PR Labeler (Lab)
 
-Testing the [PR Labeler][pr-labeler] app.
+For testing the [PR Labeler][pr-labeler] app.
+
+<!-- References -->
 
 [pr-labeler]: https://github.com/joaocarmo/pr-labeler
