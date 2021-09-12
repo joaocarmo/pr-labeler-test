@@ -4,9 +4,9 @@ caseSensitive: true
 # Array of labels to be applied to the PR [default: []]
 # Finds the `text` within the PR title and body and applies the `label`
 customLabels:
-  - text: '#bug'
-    label: 'bug'
-  - text: '#test'
-    label: 'test'
-  - text: '#feature'
+  - text: '- [x] Feature'
     label: 'feature'
+  - text: '- [x] Bug Fix'
+    label: 'bug'
+  - text: '- [x] Tests'
+    label: 'test'
