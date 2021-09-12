@@ -1,4 +1,6 @@
 # .github/pr-labeler.yml
+# The bot always updates the labels, add/remove as necessary [default: false]
+alwaysReplace: true
 # Treats the text and labels as case sensitive [default: true]
 caseSensitive: true
 # Array of labels to be applied to the PR [default: []]
@@ -10,3 +12,9 @@ customLabels:
     label: 'bug'
   - text: '- [x] Tests'
     label: 'test'
+  - text: 'WIP: '
+    label: 'wip'
+# Search the body of the PR for the `text` [default: true]
+searchBody: true
+# Search the title of the PR for the `text` [default: true]
+searchTitle: true
