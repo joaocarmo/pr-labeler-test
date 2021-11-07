@@ -1,6 +1,6 @@
 ### Request type
 
-<!-- (add an \`x\` to \`[ ]\` if applicable) -->
+<!-- (add an `x` to `[ ]` if applicable) -->
 
 - [ ] Feature
 - [ ] Bug Fix
